@@ -1,0 +1,8 @@
+{
+	"codeintel_config":{
+		"Python":{
+			"codeintel_scan_files_in_project": true
+		}
+	},
+	"codeintel_word_completions": "buffer",
+}
